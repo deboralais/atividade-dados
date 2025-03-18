@@ -1,4 +1,6 @@
 import React, { useState } from 'react';
+import Jogo1 from './componentes/Jogo1';
+import Jogo2 from './componentes/Jogo2';
 import './App.css';
 
 
